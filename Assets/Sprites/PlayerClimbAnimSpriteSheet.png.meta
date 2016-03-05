@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 9bf2e35577cec084180be6ef0ab938ff
+timeCreated: 1454268958
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerClimbAnimSpriteSheet_0
+    21300002: PlayerClimbAnimSpriteSheet_1
+    21300004: PlayerClimbAnimSpriteSheet_2
+    21300006: PlayerClimbAnimSpriteSheet_3
+    21300008: PlayerClimbAnimSpriteSheet_4
+    21300010: PlayerClimbAnimSpriteSheet_5
+    21300012: PlayerClimbAnimSpriteSheet_6
+    21300014: PlayerClimbAnimSpriteSheet_7
+    21300016: PlayerClimbAnimSpriteSheet_8
+    21300018: PlayerClimbAnimSpriteSheet_9
+    21300020: PlayerClimbAnimSpriteSheet_10
+    21300022: PlayerClimbAnimSpriteSheet_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlayerClimbAnimSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerClimbAnimSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 71
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerClimbAnimSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 71
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerClimbAnimSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 71
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerClimbAnimSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 71
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerClimbAnimSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 71
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerClimbAnimSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerClimbAnimSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerClimbAnimSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerClimbAnimSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerClimbAnimSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerClimbAnimSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
