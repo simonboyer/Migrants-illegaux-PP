@@ -1,6 +1,6 @@
 ﻿
 /*
-Copyright
+(c) Copyright Simon Boyer and Antoine Brassard Lahey 2016
 
 This file is part of Migrants-illegaux-PP.
 
